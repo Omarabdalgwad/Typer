@@ -1,4 +1,4 @@
-# Typer _ Cli Development Guide
+# My Typer documentation 
 step by step guide for building , styling, and publishing Python CLI tools using Typer &amp; Rich
 
 ## 1-installation 
